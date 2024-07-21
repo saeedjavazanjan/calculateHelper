@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Piping calculate</string>
+    <string name="transfoTitle">Iran Transfo Industrial Group</string>
+    <string name="English" translatable="false">English</string>
+    <string name="Persian" translatable="false">Persian</string>
+    <string name="Language" translatable="false">Language</string>
+    <string name="developers">developers:</string>
+    <string name="hosein">Hosein Hasani</string>
+    <string name="saeid">Saeid Ghaffari</string>
+    <string name="item">Item</string>
+    <string name="normal">normal</string>
+    <string name="horizontal_distance">horizontal Distance</string>
+    <string name="pillar_top_until_flange">pillar top until flange</string>
+    <string name="top_of_the_pillar">top of the pillar</string>
+    <string name="bottom_of_the_pipe_until_pillar">bottom of the pipe until pillar</string>
+    <string name="the_length_of_pipe_top">the length of pipe top</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="total_length">TOTAL LENGTH :</string>
+    <string name="angle_degree">ANGLE DEGREE :</string>
+    <string name="hypotenuse_length">HYPOTENUSE LENGTH :</string>
+    <string name="pipe_lengthening">pipe lengthening per 90 degree</string>
+    <string name="inter_your_number_in_mm">inter your number in mm</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">cancel</string>
+    <string name="pipe_code">pipe code</string>
+    <string name="add_to_list">ADD TO List</string>
+    <string name="restart_project">RESTART PROJECT</string>
+    <string name="show_list">Show list</string>
+    <string name="firstCalculate">Please press calculate before saving.</string>
+    <string name="update">Item Updated.</string>
+    <string name="error">There is an error.</string>
+    <string name="save_in_list">Saved in list.</string>
+    <string name="restart_successfully">Project restarted successfully.</string>
+</resources>

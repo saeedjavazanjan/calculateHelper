@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piping calculate</string>
+    <string name="transfoTitle">گروه صنعتی ایران ترانسفو</string>
+    <string name="English" translatable="false">انگلیسی</string>
+    <string name="Persian" translatable="false">فارسی</string>
+    <string name="Language" translatable="false">زبان</string>
+    <string name="developers">توسعه دهندگان:</string>
+    <string name="hosein">حسین حسنی</string>
+    <string name="saeid">سعید غفاری</string>
+    <string name="item">آیتم</string>
+    <string name="normal">نرمال</string>
+    <string name="horizontal_distance">فاصله افقی</string>
+    <string name="pillar_top_until_flange">بالای پایه تا پولک</string>
+    <string name="top_of_the_pillar">بالای پایه</string>
+    <string name="bottom_of_the_pipe_until_pillar">پایین لوله تا پایه</string>
+    <string name="the_length_of_pipe_top">طول بالای لوله</string>
+    <string name="calculate">محاسبه</string>
+    <string name="total_length">طول کل: </string>
+    <string name="angle_degree">مقدار زاویه: </string>
+    <string name="hypotenuse_length">طول وتر: </string>
+    <string name="pipe_lengthening">تغییر طول لوله به ازای هر 90 درجه</string>
+    <string name="inter_your_number_in_mm">ورودی را به میلی متر وارد کنید</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="pipe_code">کد لوله</string>
+    <string name="add_to_list">افزودن به لیست</string>
+    <string name="restart_project">راه اندازی مجدد</string>
+    <string name="show_list">نمایش لیست</string>
+    <string name="firstCalculate">لطفا قبل از ذخیره روی محاسبه کلیک کنید.</string>
+    <string name="update"> تغییرات اعمال شد</string>
+    <string name="error">خطایی رخ داده است</string>
+    <string name="save_in_list">ذخیره در لیست انجام شد.</string>
+    <string name="restart_successfully">راه اندازی مجدد انجام شد</string>
+
+</resources>
